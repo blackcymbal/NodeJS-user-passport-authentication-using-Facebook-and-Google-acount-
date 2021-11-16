@@ -1,4 +1,4 @@
-# NodeJS-user-passport-authentication-using-Facebook-and-Google-acount-
+# NodeJS-user-passport-authentication-using-Facebook-and-Google-account-
 Passport user authentication in backend using NodeJS, Express and MongoDB. This code included user authentication using social media accounts like Facebook and Google.
 
 ## Install Dependencies
